@@ -1,0 +1,3 @@
+[submodule "OAG-entity-alignment"]
+	path = OAG-entity-alignment
+	url = https://github.com/THUDM/OAG-entity-alignment.git
