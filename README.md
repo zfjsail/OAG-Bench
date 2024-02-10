@@ -8,6 +8,14 @@ The tasks in OAG-Bench fall into two categories: academic graph construction and
 This repository offers basic dataset descriptions and code implementations for all tasks.
 Please go to each directory for detailed environment setup and running steps.
 
+For example,
+
+```bash
+git clone https://github.com/zfjsail/OAG-Bench.git
+git submodule init
+git submodule update --remote academic-influence-prediction/tot-prediction
+```
+
 ## Data Description
 
 ### Entity Alignment
