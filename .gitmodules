@@ -31,3 +31,6 @@
 [submodule "reviewer-recommendation"]
 	path = reviewer-recommendation
 	url = https://github.com/THUDM/Reviewer-Rec.git
+[submodule "scholar-profiling"]
+	path = scholar-profiling
+	url = https://github.com/THUDM/scholar-profiling.git
