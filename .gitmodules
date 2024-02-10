@@ -4,3 +4,6 @@
 [submodule "academic-influence-prediction/citation-prediction"]
 	path = academic-influence-prediction/citation-prediction
 	url = https://github.com/THUDM/citation-prediction.git
+[submodule "academic-influence-prediction/tot-prediction"]
+	path = academic-influence-prediction/tot-prediction
+	url = https://github.com/THUDM/tot-prediction.git
