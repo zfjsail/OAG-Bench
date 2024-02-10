@@ -19,3 +19,6 @@
 [submodule "entity-tagging/author-tagging"]
 	path = entity-tagging/author-tagging
 	url = https://github.com/THUDM/oag-author-tagging.git
+[submodule "entity-tagging/paper-tagging"]
+	path = entity-tagging/paper-tagging
+	url = https://github.com/QingFei1/dpv12_nodeclassification
