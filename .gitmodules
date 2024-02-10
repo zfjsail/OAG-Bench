@@ -10,3 +10,6 @@
 [submodule "code-assets/P-tuning-v2"]
 	path = code-assets/P-tuning-v2
 	url = https://github.com/THUDM/P-tuning-v2.git
+[submodule "author-name-disambiguation"]
+	path = author-name-disambiguation
+	url = https://github.com/THUDM/whoiswho-top-solutions.git
