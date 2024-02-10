@@ -22,3 +22,6 @@
 [submodule "entity-tagging/paper-tagging"]
 	path = entity-tagging/paper-tagging
 	url = https://github.com/QingFei1/dpv12_nodeclassification
+[submodule "paper-recommendation"]
+	path = paper-recommendation
+	url = https://github.com/THUDM/Paper-Rec.git
