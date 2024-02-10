@@ -16,3 +16,6 @@
 [submodule "concept-taxonomy-completion"]
 	path = concept-taxonomy-completion
 	url = https://github.com/THUDM/OAG-taxo.git
+[submodule "entity-tagging/author-tagging"]
+	path = entity-tagging/author-tagging
+	url = https://github.com/THUDM/oag-author-tagging.git
