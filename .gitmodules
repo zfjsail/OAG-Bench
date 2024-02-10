@@ -7,3 +7,6 @@
 [submodule "academic-influence-prediction/tot-prediction"]
 	path = academic-influence-prediction/tot-prediction
 	url = https://github.com/THUDM/tot-prediction.git
+[submodule "code-assets/P-tuning-v2"]
+	path = code-assets/P-tuning-v2
+	url = https://github.com/THUDM/P-tuning-v2.git
