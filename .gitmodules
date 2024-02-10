@@ -25,3 +25,6 @@
 [submodule "paper-recommendation"]
 	path = paper-recommendation
 	url = https://github.com/THUDM/Paper-Rec.git
+[submodule "paper-source-trace"]
+	path = paper-source-trace
+	url = https://github.com/THUDM/paper-source-trace.git
