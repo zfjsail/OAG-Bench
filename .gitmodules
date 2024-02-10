@@ -13,3 +13,6 @@
 [submodule "author-name-disambiguation"]
 	path = author-name-disambiguation
 	url = https://github.com/THUDM/whoiswho-top-solutions.git
+[submodule "concept-taxonomy-completion"]
+	path = concept-taxonomy-completion
+	url = https://github.com/THUDM/OAG-taxo.git
