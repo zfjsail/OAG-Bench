@@ -1,5 +1,5 @@
 [submodule "OAG-entity-alignment"]
-	path = OAG-entity-alignment
+	path = entity-alignment
 	url = https://github.com/THUDM/OAG-entity-alignment.git
 [submodule "academic-influence-prediction/citation-prediction"]
 	path = academic-influence-prediction/citation-prediction
