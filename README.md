@@ -47,3 +47,15 @@ Given a paper 𝑝 (including the full text of the paper) and its references, th
 
 ### Academic Influence Prediction
 OAG-Paper-TOT: This dataset collates Test-of-Time paper award data for selected conferences and journals in computer science. The meaning given to a paper by the Test-of-Time Award is: that the paper has produced a huge theoretical or applied influence several years after its publication. Awards with similar meanings include the Most Influential Award, Hall of Fame Award, etc. At present, a total of 1063 papers in the computer science field that are awarded by 2022 have been collected.AuthPred-2017 and AuthPred-2022 are to predict the citation number of authors in the future. Given the collection of papers published no later than 𝑦𝑟 (𝑦𝑟 is a year) and the citation relationship between papers, each paper contains attributes such as title, author, published conference or journal, year, etc. The goal is to predict the author's citations in 𝑦𝑟 + 𝛥𝑦𝑟 year.
+
+## References
+🌟 If you find our work helpful, please leave us a star and cite our paper.
+```
+@inproceedings{zhang2024oag,
+  title={OAG-bench: a human-curated benchmark for academic graph mining},
+  author={Zhang, Fanjin and Shi, Shijie and Zhu, Yifan and Chen, Bo and Cen, Yukuo and Yu, Jifan and Chen, Yelin and Wang, Lulu and Zhao, Qingfei and Cheng, Yuqing and others},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={6214--6225},
+  year={2024}
+}
+```
